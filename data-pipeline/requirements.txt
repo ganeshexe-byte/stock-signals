@@ -1,0 +1,7 @@
+# Phase 1 needs nothing beyond the standard library.
+# Phase 2 onwards (uncomment as we get there):
+# pandas>=2.2
+# numpy>=1.26
+# yfinance>=0.2.40
+# requests>=2.32
+# scipy>=1.13
